@@ -1,2 +1,6 @@
-# autoencoders-chest-xray
-Use of different autoencoders in NIH dataset
+# About
+This repository applies different autoencoder architecture to the NIH dataset which consists of different chest radiographs.
+
+# Results
+
+# Methodology
