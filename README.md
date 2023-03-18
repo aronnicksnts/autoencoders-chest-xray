@@ -4,3 +4,7 @@ This repository applies different autoencoder architecture to the NIH dataset wh
 # Results
 
 # Methodology
+
+
+# References
+- [Uncertainty Prediction Autoencoder](https://github.com/dbbbbm/UAE)
